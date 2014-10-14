@@ -18,7 +18,7 @@ Before your client web application can use the Newscoop RESTful API, you need to
 * The Newcoop Publication you are accessing.
 * The URI of your client web application which parses the authentication token sent by Newscoop.
 
-In this article, we use the following example URLS:
+In this tutorial, we use the following example URLS:
 
 * ``http://myapp.example.com`` your application.
 * ``http://newscoop-example.com`` your Newscoop server installation.
